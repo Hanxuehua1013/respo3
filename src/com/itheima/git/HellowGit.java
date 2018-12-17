@@ -13,4 +13,7 @@ public class HellowGit {
         System.out.println("hellow git");
         System.out.println("hellow git");
     }
+    public static void test(){
+        System.out.println("test");
+    }
 }
