@@ -16,4 +16,7 @@ public class HellowGit {
     public static void test(){
         System.out.println("test");
     }
+    public static void test1(){
+        System.out.println("test1");
+    }
 }
