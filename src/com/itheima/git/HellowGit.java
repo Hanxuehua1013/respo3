@@ -19,4 +19,7 @@ public class HellowGit {
     public static void test1(){
         System.out.println("test1");
     }
+    public void test3(){
+        System.out.println("test3");
+    }
 }
